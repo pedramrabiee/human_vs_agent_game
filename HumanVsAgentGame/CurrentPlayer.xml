@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<CurrentPlayer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <playerNo>1</playerNo>
+  <playerName>Test</playerName>
+  <gameMode>0</gameMode>
+  <highScore>0</highScore>
+  <lastDay>0</lastDay>
+  <lastTrial>0</lastTrial>
+  <singleStartNo>0</singleStartNo>
+</CurrentPlayer>
